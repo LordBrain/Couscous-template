@@ -1,1 +1,1 @@
-# Couscous-template
+# Couscous
