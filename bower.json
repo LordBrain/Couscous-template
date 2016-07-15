@@ -1,7 +1,6 @@
 {
     "name": "test",
     "dependencies": {
-        "bootstrap": "~3.2.0",
-        "fontawesome": "~4.0"
+        "bootstrap": "~3.2.0"
     }
 }
